@@ -11,7 +11,7 @@ function Header() {
                 <div className="col-md-3 col-sm-3">
                   <div className="site-title">
                     <a href="/#home" style={{ textDecoration: "none" }}>
-                      <h3>Warito Kichiro</h3>
+                      <h3>Yevhen Tretiakov</h3>
                     </a>
                   </div>
                 </div>

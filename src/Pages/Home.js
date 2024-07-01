@@ -17,7 +17,7 @@ const Home = () => {
                           className="cd-words-wrapper"
                           style={{ width: "266px", overflow: "hidden" }}
                         >
-                          <b className="is-hidden">Warito Kichiro</b>
+                          <b className="is-hidden">Yevhen Tretiakov</b>
                           <b className="is-hidden">AI Engineer</b>
                           <b className="is-visible">Full Stack Developer</b>
                         </span>
@@ -124,7 +124,7 @@ const Home = () => {
                   <div className="col-md-8 col-sm-6 col-xs-12 about-col">
                     <div className="about-details wow fadeIn">
                       <div className="main-title left-title text-left wow fadeIn">
-                        <h3>Hello! This is Kichiro</h3>
+                        <h3>Hello! This is Tretiakov</h3>
                         <div className="underline1 no-margin"></div>
                         <div className="underline2 no-margin"></div>
                       </div>
@@ -153,7 +153,7 @@ const Home = () => {
                       </p>
                       <a
                         className="about-link-1"
-                        href="assets/cv/my_resume.pdf"
+                        href="assets/cv/Stack_me_resume.pdf"
                         target="_blank"
                       >
                         See Resume
@@ -331,8 +331,8 @@ const Home = () => {
                         <div className="underline1"></div>
                         <div className="underline2"></div>
                         <p>
-                          Completed my school life from Azabu High School
-                          181-0013 Shimo Renjaku, Mitaka-shi, Tokyo, Japan
+                          Completed my school life from Odessa Mariinskaya High School
+                          area Odeska, district Reniiskyi, Reni, Ukraine
                         </p>
                       </div>
                     </div>
@@ -345,7 +345,7 @@ const Home = () => {
                           className="fa fa-graduation-cap resume-icon"
                           aria-hidden="true"
                         ></i>
-                        <h3>Graduation from University of Tsukuba</h3>
+                        <h3>Graduation from Odesa Mechnikov National University</h3>
                         <h2>2013-2018</h2>
                         <div className="underline1"></div>
                         <div className="underline2"></div>

@@ -78,7 +78,7 @@ const FormExample = () => {
                           Visit my
                           <a
                             href="https://github.com/sanajitjana"
-                            title="Warito Kichiro"
+                            title="Yevhen Tretiakov"
                             target="_blank"
                             rel="noopener noreferrer"
                           >
