@@ -153,7 +153,7 @@ const Home = () => {
                       </p>
                       <a
                         className="about-link-1"
-                        href="assets/cv/Stack_me_resume.pdf"
+                        href="assets/cv/resume.pdf"
                         target="_blank"
                       >
                         See Resume
