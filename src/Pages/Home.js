@@ -114,17 +114,17 @@ const Home = () => {
                 <div className="row">
                   <div className="col-md-4 col-sm-6 col-xs-12 about-col">
                     <div className="about-image">
-                      <img
+                      {/* <img
                         src="assets/img/about-image.jpg"
                         alt="sanajit-jana"
                         className="about-img wow fadeIn"
-                      />
+                      /> */}
                     </div>
                   </div>
                   <div className="col-md-8 col-sm-6 col-xs-12 about-col">
                     <div className="about-details wow fadeIn">
                       <div className="main-title left-title text-left wow fadeIn">
-                        <h3>Hello! This is Tretiakov</h3>
+                        <h3>Hello! This is Petrov</h3>
                         <div className="underline1 no-margin"></div>
                         <div className="underline2 no-margin"></div>
                       </div>
